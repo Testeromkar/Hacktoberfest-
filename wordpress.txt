@@ -1,0 +1,12 @@
+1) wp-includes [directory]
+2) index.php
+3) wp-login.php
+4) wp-links-opml.php
+5) wp-activate.php
+6) wp-blog-header.php
+7) wp-cron.php
+8) wp-links.php
+9) wp-mail.php
+10) xmlrpc.php
+11) wp-settings.php
+12) wp-trackback.php
